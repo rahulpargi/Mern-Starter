@@ -7,6 +7,7 @@ npm install && cd client npm install
 
 Build production build
 cd client && npm run build
+
 Start MongoDB
 
 Go to root folder & Start Server
