@@ -2,13 +2,12 @@
 
 <i>How to install:</i>
 
-Install Dependencies
+Install Server & Client Dependencies
 npm install && cd client npm install
 
-Build production build<
+Build production build
 cd client && npm run build
+Start MongoDB
 
-
-Start Server
-Go to root folder
+Go to root folder & Start Server
 npm start
